@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-03-25T20:33:12.231985",
+  "signal_analysis": {
+    "SPEED": {},
+    "ERROR": {}
+  },
+  "anomalies": {
+    "SPEED": [],
+    "ERROR": []
+  }
+}
